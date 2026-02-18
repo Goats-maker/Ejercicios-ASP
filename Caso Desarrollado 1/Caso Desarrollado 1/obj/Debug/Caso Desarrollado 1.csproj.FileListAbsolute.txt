@@ -1,0 +1,10 @@
+C:\Users\cjfac\source\repos\Caso Desarrollado 1\Caso Desarrollado 1\bin\Debug\Caso Desarrollado 1.exe.config
+C:\Users\cjfac\source\repos\Caso Desarrollado 1\Caso Desarrollado 1\bin\Debug\Caso Desarrollado 1.exe
+C:\Users\cjfac\source\repos\Caso Desarrollado 1\Caso Desarrollado 1\bin\Debug\Caso Desarrollado 1.pdb
+C:\Users\cjfac\source\repos\Caso Desarrollado 1\Caso Desarrollado 1\obj\Debug\Caso Desarrollado 1.csproj.AssemblyReference.cache
+C:\Users\cjfac\source\repos\Caso Desarrollado 1\Caso Desarrollado 1\obj\Debug\Caso_Desarrollado_1.Form1.resources
+C:\Users\cjfac\source\repos\Caso Desarrollado 1\Caso Desarrollado 1\obj\Debug\Caso_Desarrollado_1.Properties.Resources.resources
+C:\Users\cjfac\source\repos\Caso Desarrollado 1\Caso Desarrollado 1\obj\Debug\Caso Desarrollado 1.csproj.GenerateResource.cache
+C:\Users\cjfac\source\repos\Caso Desarrollado 1\Caso Desarrollado 1\obj\Debug\Caso Desarrollado 1.csproj.CoreCompileInputs.cache
+C:\Users\cjfac\source\repos\Caso Desarrollado 1\Caso Desarrollado 1\obj\Debug\Caso Desarrollado 1.exe
+C:\Users\cjfac\source\repos\Caso Desarrollado 1\Caso Desarrollado 1\obj\Debug\Caso Desarrollado 1.pdb
